@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello! 👋
 
 I'm Colton, a junior at Princeton studying Computer Science. I have recently been interested in Linux window managers as well as developing accessibility software for people with disabilities. 
 All repositories here are hobby projects; my school projects are privated. 
