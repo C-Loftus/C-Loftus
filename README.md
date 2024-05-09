@@ -1,6 +1,6 @@
 Hi, I'm Colton! 
 
-I love working on projects related to tech accessibility, Linux, and experimental HCI.
+I love working on projects related to accessibility, Linux, and UX design.
 
 I graduated in 2023 from Princeton, focusing on ML and HCI. I currently work in healthcare consulting and am most experienced in Python, JS, and Rust.
 
