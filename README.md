@@ -1,6 +1,6 @@
 Hi, I'm Colton! 
 
-I'm an open source developer for the [Center for Geospatial Solutions](https://cgsearth.org/)
+I work on data engineering for the [Center for Geospatial Solutions](https://cgsearth.org/) at the [Lincoln Institute of Land Policy](https://www.lincolninst.edu/)
 
 In my spare time I am interested in a11y and audiobook tools.
 
