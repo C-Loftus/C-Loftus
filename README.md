@@ -4,4 +4,4 @@ I'm an open source developer for the [Center for Geospatial Solutions](https://c
 
 In my spare time I am interested in a11y and audiobook tools.
 
-Please feel free to reach out to me on [my website](https://colton.place/contact/)
+Please feel free to reach out to me on [my website](https://colton.place/contact/) or via email: [github@colton.place](mailto:github@colton.place)
