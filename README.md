@@ -1,6 +1,6 @@
 Hi, I'm Colton! 
 
-I am a software engineer at the [Center for Geospatial Solutions](https://cgsearth.org/) at the [Lincoln Institute of Land Policy](https://www.lincolninst.edu/)
+I work as a software engineer at the [Center for Geospatial Solutions](https://cgsearth.org/) at the [Lincoln Institute of Land Policy](https://www.lincolninst.edu/)
 
 I primarily work on data engineering and backend work for hydrology and geoscience use cases. 
 
